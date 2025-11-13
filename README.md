@@ -232,21 +232,6 @@ Dark/light theme toggle
 
  Contributing
 
-Contributions are welcome!
-
-git clone https://github.com/yourusername/quickdesk.git
-git checkout -b feature/new-feature
-git commit -m "feat: add new feature"
-git push origin feature/new-feature
-
-
-Submit a PR with proper documentation.
-
- License
-
-MIT License
-
- Author
 
 QuickDesk Development Team
 Taarini Kumar and Vasu Gomay
